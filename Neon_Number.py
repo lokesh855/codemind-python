@@ -1,10 +1,10 @@
-a=int(input())
-b=a*a
-c=0
-for i in str(b):
-    c=c+int(i)
-if c==a:
-    print('Neon Number')
+n=int(input())
+p=n*n
+s=0
+for i in str(p):
+    s=s+int(i)
+if s==n:
+    print("Neon Number")
 else:
-    print('Not Neon Number')
+    print("Not Neon Number")
     
