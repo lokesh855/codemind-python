@@ -1,2 +1,2 @@
-a=input()
-print(max(a))
+n=input()
+print(max(n))
